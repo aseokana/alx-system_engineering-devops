@@ -9,11 +9,9 @@
 **4-listmorefiles** - This file contains a script that display current directory contents, including hidden files.
 #
 **5-listfilesdigitonly** - This file contains a script that display current directory contents:
-<ul>
-<li>Long format.</li>
-<li>With user and group IDs displayed numerically.</li>
-<li>And hidden files.</li>
-</ul>
+	- Long format.
+	- With user and group IDs displayed numerically.
+	- And hidden files.
 #
 **6-firstdirectory** - This file contains a script that creates a directory named "my_first_directory" in the "/tmp/" directory.
 #
@@ -31,5 +29,15 @@
 #
 **13-symbolic_link** - This file contains a script that create a symbolic link to "/bin/ls", named "__ls__"
 #
-**14-copy_html** -This file contains a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+**14-copy_html** - This file contains a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+#
+**100-lets_move** - This file contains a script that moves all files beginning with an uppercase letter to the directory "/tmp/u". 
+#
+**101-clean_emacs** - This file contains a script that deletes all files in the current working directory that end with the character "~".
+#
+**102-tree** - This file contains a script that creates the directories "welcome/", "welcome/to/" and "welcome/to/school" in the current directory
+#
+**103-commas** - This file contains a script that lists all the files and directories of the current directory, separated by commas.
+#
+**school.mgc** - This file contains a script that can be used with the command file to detect School data files.
 #
