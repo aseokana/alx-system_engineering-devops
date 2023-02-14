@@ -43,3 +43,11 @@
 **13-print_float** - This file contains a script that prints a number with two decimal places, followed by a new line.
 	- The number will be stored in the environment variable NUM
 #
+**100-decimal_to_hexadecimal** - This file contains a script that converts a number from base 10 to base 16.
+#
+**101-rot13** - This file contains a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+#
+**102-odd** - This file contains a script that prints every other line from the input, starting with the first line.
+#
+**103-water_and_stir** - This file contains a script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+#
